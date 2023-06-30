@@ -10,10 +10,8 @@ This repository contains the code and resources for building a customer churn pr
 
 3. **Model development:** This phase involves building and training machine learning models to predict customer churn. Various algorithms, such as logistic regression, decision trees, random forests, or gradient boosting, can be explored and compared. Model selection and hyperparameter tuning techniques are employed to optimize the performance of the models.
 
-4. **Model evaluation:** The developed models are evaluated using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. The performance of the models is assessed through techniques like cross-validation and analyzing the model's predictive ability on a holdout or test dataset.
+4. **Deployment and usage:** Once a satisfactory model is obtained, it can be deployed into a production environment. This repository provides guidance and resources for deploying the churn prediction model, allowing businesses to integrate it into their systems for real-time or batch prediction of customer churn.
 
-5. **Deployment and usage:** Once a satisfactory model is obtained, it can be deployed into a production environment. This repository provides guidance and resources for deploying the churn prediction model, allowing businesses to integrate it into their systems for real-time or batch prediction of customer churn.
-
-6. **Documentation and examples:** Detailed documentation is provided to guide users through the project, including explanations of the code structure, dependencies, and instructions for reproducing the results. Additionally, examples and tutorials are included to help users understand and adapt the project to their specific needs.
+5. **Documentation and examples:** Detailed documentation is provided to guide users through the project, including explanations of the code structure, dependencies, and instructions for reproducing the results. Additionally, examples and tutorials are included to help users understand and adapt the project to their specific needs.
 
 By leveraging customer churn prediction, businesses can proactively identify customers who are likely to churn and take targeted actions to retain them. This project provides a framework for developing and deploying a customer churn prediction model, empowering businesses to optimize customer retention strategies and improve their overall customer satisfaction and profitability.
